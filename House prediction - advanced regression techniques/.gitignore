@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code config
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# Environment files
+.env
+*.egg-info/
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
