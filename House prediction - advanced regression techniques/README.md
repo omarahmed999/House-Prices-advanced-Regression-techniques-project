@@ -25,7 +25,7 @@ The goal is to predict the final price of homes based on various features provid
 - Transformed skewed numerical features using `log1p`
 
 ### 3. Modeling
-- Used **Linear Regression** (or any model you used)
+- Used **Linear Regression** and Random forest
 - Trained on processed data
 - Evaluated using RMSE and cross-validation
 
@@ -40,12 +40,7 @@ The goal is to predict the final price of homes based on various features provid
 
 ## 📊 Evaluation
 - Primary metric: Root Mean Squared Error (RMSE)
-- (Include your score if you have it)
-
-## 💡 Future Improvements
-- Try advanced models like XGBoost or LightGBM
-- Hyperparameter tuning
-- Feature selection/engineering
+- 23,880
 
 ---
 
